@@ -1,12 +1,26 @@
-h1 {
-  font-family: Verdana
-  size: 50px
-  color: white
-  text-align: center
+.header {
+  font-size: 50px;
+  color: white;
+  font-weight: normal
 }
-h5 {
-  font-family: Verdana
-  size: 16px
-  color: aquamarine
-  text-align: center
+.download {
+  size: 16px;
+  color: aquamarine;
+}
+html {
+  text-align: center;
+  background-color: black;
+  font-family: Verdana;
+}
+.h2{
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+}
+p {
+  size: 21px;
+  color: gray;
+}
+.copyright {
+  text-align: right;
 }
